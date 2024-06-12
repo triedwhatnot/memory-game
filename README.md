@@ -25,7 +25,12 @@ Click on any tile to unveil the hidden number; if the numbers on two consecutive
 
 ## Snapshots
 
+1. Instructions screen
+
 ![Instructions screen](./assets/initial-screen.png)
+
+
+2. Final screen
 
 ![Congratulations screen](./assets/final-screen.png)
 
