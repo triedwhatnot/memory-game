@@ -1,6 +1,6 @@
 # Memory Game
 
-Try yourself: [Live demo](https://voice2post.netlify.app/)
+Try yourself: [Live demo](https://triedwhatnot.com/projects/memory-game)
 
 
 ## Description
